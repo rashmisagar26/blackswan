@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14624" started-at="2016-07-12T23:24:27Z" finished-at="2016-07-12T23:24:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14624" started-at="2016-07-12T23:24:27Z" finished-at="2016-07-12T23:24:41Z">
+      <class name="cucumberTest.SearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:cucumberTest.SearchTest@7dc36524]" name="setUp" is-config="true" duration-ms="5545" started-at="2016-07-13T00:24:27Z" finished-at="2016-07-13T00:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testJava2()[pri:0, instance:cucumberTest.SearchTest@7dc36524]" name="testJava2" duration-ms="8892" started-at="2016-07-13T00:24:32Z" finished-at="2016-07-13T00:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJava2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:cucumberTest.SearchTest@7dc36524]" name="tearDown" is-config="true" duration-ms="161" started-at="2016-07-13T00:24:41Z" finished-at="2016-07-13T00:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- cucumberTest.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
